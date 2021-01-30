@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-[![LinkedIn](https://www.linkedin.com/in/javierenzo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javierenzo?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
