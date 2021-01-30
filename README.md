@@ -1,6 +1,6 @@
 ### Hi there 👋 there, my name is Dario Ocedo
 ### I'm a Freelance
-![https://github.com/javierenzo]
+![https://github.com/javierenzo](https://raw.githubusercontent.com/javierenzo/javier/master/javierenzo_bitmoji.png)
 
 <!--
 **javierenzo/javierenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
