@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  [🚀 Skills](#-skills-)
-## [📱 Find me at](#-contact-)
+-  [🚀 Skills](#-skills-)
+- [📱 Find me at](#-contact-)
 
 ##  [🚀 Skills](#Welcome-readme-skills)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 </br>
+[![django]<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white`
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 </br>
 
