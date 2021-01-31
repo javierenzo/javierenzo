@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4479A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
 [![Whastapp](https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5491164766821)
-[![Gmail](https://img.shields.io/badge/Gmail-3DDC84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+[![Gmail](https://img.shields.io/badge/Gmail-3DDC84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](darioenzojavier@gmail.com)
