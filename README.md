@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 </br>
 
-## 📱 Find me at [🔝](#welcome-readmemd-profile)
+## 📱 Contacto [🔝](#welcome-readmemd-profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4479A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
 [![Whastapp](https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5491164766821)
 [![Gmail](https://img.shields.io/badge/dario.ocedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
