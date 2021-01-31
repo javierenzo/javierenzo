@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ## 📱 Contacto [🔝](#welcome-readmemd-profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4479A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
 [![Whastapp](https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5491164766821)
-[![Gmail](https://img.shields.io/badge/dario.ocedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/)
+[![Gmail](https://img.shields.io/badge/dario.ocedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](href="mailto:dario.ocedo@gmail.com")
