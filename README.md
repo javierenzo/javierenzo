@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 </br>
 [![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+</br>
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
+</br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 </br>
 
