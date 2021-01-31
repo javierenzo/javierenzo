@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [🚀 Skills](-#skills-)
-- [📱 Find me at](-#findmeat-)
+- [🚀 Skills](#-skills-)
+- [📱 Find me at](#-findmeat-)
 
 ## 🚀 Skills [🔝](#Welcome-readme-skills)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
