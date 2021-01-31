@@ -1,5 +1,6 @@
 ### Hi there 👋 there, my name is Dario Ocedo
 ### I'm a Freelance
+Active job search / Information Technology Professor / Systems Analyst
 ![https://github.com/javierenzo](https://github.com/javierenzo/javierenzo/blob/main/javierenzo_bitmoji.png)
 
 <!--
