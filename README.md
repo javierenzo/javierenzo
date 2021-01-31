@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills:
-
+##  [🚀 Skills](#-skills-)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 </br>
 
-## Find me at:
+## [📱 Find me at](#-contact-)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4479A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
 [![Whastapp](https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5491164766821)
 [![Gmail](https://img.shields.io/badge/dario.ocedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
