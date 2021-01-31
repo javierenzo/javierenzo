@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 </br>
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-javierenzo?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javierenzo?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]()
