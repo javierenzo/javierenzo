@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 [![php](https://img.shields.io/badge/php-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 </br>
-[![html](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![css](https://img.shields.io/badge/css-4479A1?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
+[![html](https://img.shields.io/badge/HTML-4479A1?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![css](https://img.shields.io/badge/CSS-4479A1?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
