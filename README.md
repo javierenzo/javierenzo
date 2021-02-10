@@ -1,9 +1,10 @@
 ### Hi there 👋 there, my name is Dario Ocedo
 ![https://github.com/javierenzo](https://javierenzo.github.io/darioocedo.github.io/assets/thumbnail.png)
-### Hello I only speak Spanish even if I write English
+
 Active job search / Information Technology Professor / Systems Analyst
 ![https://github.com/javierenzo](https://github.com/javierenzo/javierenzo/blob/main/javierenzo_bitmoji.png)
 
+### Hello I only speak Spanish even if I write English
 <!--
 **javierenzo/javierenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
