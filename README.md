@@ -43,10 +43,11 @@ Here are some ideas to get you started:
 </br>
 
 ## 📱 Contacto [🔝](#welcome-readmemd-profile)
-[![Github page](https://img.shields.io/badge/github-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://javierenzo.github.io/darioocedo.github.io/)
+[![Github page](https://img.shields.io/badge/Mygithubpage-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://javierenzo.github.io/darioocedo.github.io/)
 [![Web](https://img.shields.io/badge/web-14a1f0?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)](https://javierenzo.github.io/portafoliodarioocedo.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4479A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
 [![Whastapp](https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5491164766821)
 [![Telegram](https://img.shields.io/badge/Telegram-4479A1?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](http://t.me/javierenzo)
 [![Discord](https://img.shields.io/badge/Discord-4479A1?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discordapp.com/users/705217286381764638)
 [![Gmail](https://img.shields.io/badge/dario.ocedo@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dario.ocedo@gmail.com)
+[![Github](https://img.shields.io/badge/github-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/javierenzo)
