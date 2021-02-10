@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </br>
 
 ## 📱 Contacto [🔝](#welcome-readmemd-profile)
-[![Github page](https://img.shields.io/badge/My:_github_page-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://javierenzo.github.io/darioocedo.github.io/)
+[![Github page](https://img.shields.io/badge/My_github_page-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://javierenzo.github.io/darioocedo.github.io/)
 [![Web](https://img.shields.io/badge/web-14a1f0?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)](https://javierenzo.github.io/portafoliodarioocedo.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4479A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierenzo/)
 [![Whastapp](https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5491164766821)
