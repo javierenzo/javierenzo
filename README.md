@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 [![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 </br>
 [![Windows](https://img.shields.io/badge/Windows-D83B01?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Windows Server](https://img.shields.io/badge/Windows_server-D83B01?style=for-the-badge&logo=windows_server&logoColor=white)]()6
 </br>
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 </br>
